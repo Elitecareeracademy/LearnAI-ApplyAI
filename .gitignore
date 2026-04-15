@@ -1,0 +1,4 @@
+.DS_Store
+*.backup.html
+*_reordered_*.html
+*_v[0-9]*.html
